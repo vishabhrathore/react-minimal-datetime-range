@@ -9,4 +9,4 @@ env:
   - REACT=16
 notifications:
   email:
-    - email:edwardfhsiao@gmail.com
+    - email:edwardfxiao@gmail.com
